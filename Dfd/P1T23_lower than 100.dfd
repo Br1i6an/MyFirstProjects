@@ -1,0 +1,58 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+37
+'lower than 100 ingrese un número '  
+5
+1
+6
+numero
+6
+2
+4
+suma
+1
+0
+8
+contador
+1
+0
+9
+1
+11
+numero > 99
+6
+2
+4
+suma
+11
+suma+numero
+8
+contador
+10
+contador+1
+4
+1
+37
+'lower than 100 ingrese un número '  
+5
+1
+6
+numero
+11
+6
+1
+8
+promedio
+13
+suma/contador
+4
+1
+84
+'La suma es: ', suma, ' El promedio es: ', promedio, '  de ' , contador, ' numeros '
+1

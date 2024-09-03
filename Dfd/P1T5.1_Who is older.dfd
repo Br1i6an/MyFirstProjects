@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+113
+'software para saber quien es mayor, creado por Brian  Rodriguez, ingrese el año de nacimiento de la 1ra persona'
+5
+1
+11
+yearperson1
+4
+1
+49
+'Ingrese el anno de nacimiento de la 2da persona'
+5
+1
+11
+yearperson2
+6
+2
+11
+edadperson1
+16
+2019-yearperson1
+11
+edadperson2
+16
+2019-yearperson2
+7
+0
+1
+23
+edadperson1>edadperson2
+4
+1
+28
+' El mayor es ', yearperson2
+13
+4
+1
+29
+' El mayor es ' , yearperson1
+13
+1

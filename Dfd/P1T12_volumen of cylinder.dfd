@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+116
+' Software diseñado para calcular el volumen de un cilindro, creado por Brian Rodriguez, ingreseel valor del radio '
+5
+1
+5
+radio
+4
+1
+34
+' Ingrese el valkor de la altura '
+5
+1
+1
+h
+6
+1
+7
+volumen
+18
+3.141516*radio^2*h
+4
+1
+43
+' El volumen de tu cilindro es: ' ,volumen 
+1

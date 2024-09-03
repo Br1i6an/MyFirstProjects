@@ -1,0 +1,80 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+159
+'Software diseñado para calcular el salario de una persona teniendo en cuenta el sueldo contratado y los dias trabajados en el mes, creado por Brian Rodríguez'
+4
+1
+106
+'Ingrese el valor del sueldo neto, (Se le descontará al total del salario los valores por salud y pensión'
+5
+1
+6
+sueldo
+7
+0
+1
+9
+sueldo<=0
+7
+0
+1
+8
+sueldo>0
+13
+4
+1
+54
+'Ingrese el números de días trabajados (entre 0 y 30)'
+5
+1
+4
+dias
+7
+0
+1
+7
+dias<=0
+6
+3
+8
+salario 
+14
+sueldo/30*dias
+5
+salud
+13
+salario*0.125
+7
+pension
+12
+salario*0.16
+6
+1
+12
+salariototal
+21
+salario-salud-pension
+4
+1
+109
+'El salario es: ', salariototal, ' Se le descontó de salud: ', salud, ' Se le descontó de pensión: ', pension
+13
+4
+1
+53
+'Error, el valor de los días debe estar entre 0 y 30'
+13
+13
+13
+4
+1
+35
+'Error, ingrese un valor mayor a 0'
+13
+1

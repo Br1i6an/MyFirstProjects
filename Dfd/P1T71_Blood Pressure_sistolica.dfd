@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+135
+' Programa para determinar la presion sistólica de una persona creado por Brian Rodríguez, inserte el valor de su presión sistólica  ' 
+5
+1
+9
+sistólica
+7
+0
+1
+13
+sistólica<120
+7
+0
+1
+14
+sistólica<=139
+4
+1
+68
+' ¡ PILAAAAS ! Usted sufre de hipertensión, maneje el estres :) '   
+13
+4
+1
+31
+' Usted sufre de hipertensión '
+13
+13
+4
+1
+35
+' Usted tiene una presión normal ' 
+13
+1

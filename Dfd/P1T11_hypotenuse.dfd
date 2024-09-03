@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+113
+" Software para calcular la hipotenusa de un triángulo creado por Brian Rodriguez ingrese el valor del cateto 1 "
+5
+1
+5
+cate1
+4
+1
+33
+" Ingrese el valor del cateto 2 "
+5
+1
+5
+cate2
+6
+1
+10
+hipotenuse
+21
+SQRT(cate1^2+cate2^2)
+4
+1
+47
+" La hipotenusa del triángulo es: ", hipotenuse
+1

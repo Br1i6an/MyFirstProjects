@@ -1,0 +1,57 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+110
+'Sofware para calcular el IVA de 4 productos creado por Brian Rodríguez inserte el valor del primer prodructo'
+5
+1
+9
+Producto1
+4
+1
+41
+' Ingrese el valor del segundo producto '
+5
+1
+10
+Prodructo2
+4
+1
+40
+' Ingrese el valor del tercer producto '
+5
+1
+9
+Producto3
+4
+1
+39
+'Ingrese el texto del cuarto producto '
+5
+1
+9
+Producto4
+6
+3
+8
+totbruto
+40
+Producto1+Prodructo2+Producto3+Producto4
+3
+IVA
+13
+totbruto*0.19
+12
+totalfactura
+12
+totbruto+IVA
+4
+1
+120
+' El total bruto de la factura es : ' , totbruto, ' El IVA es de ' ,IVA, ' El total de la factura es : ' ,  totalfactura
+1

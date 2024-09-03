@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+104
+'Sofware diseñado para saber si un número es paro impar, creado por Brian Rodríguez, ingrese el número' 
+5
+1
+6
+number
+7
+0
+1
+16
+number MOD 2 = 0
+4
+1
+20
+'El número es impar'
+13
+4
+1
+18
+'El número es par'
+13
+1

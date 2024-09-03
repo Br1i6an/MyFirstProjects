@@ -1,0 +1,68 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+104
+'Sofware diseñado para saber el mayor de 3 números, creado por Brian Rodríguez ingrese el primer número'
+5
+1
+4
+num1
+4
+1
+27
+'Ingrese el segundo número'
+5
+1
+4
+num2
+4
+1
+26
+'Ingrese el tercer número'
+5
+1
+4
+num3
+7
+0
+1
+23
+num1=num2 and num2=num3
+7
+0
+1
+23
+num1>num2 and num1>num3
+7
+0
+1
+23
+num2>num1 and num2>num3
+4
+1
+20
+'El mayor es ', num3
+13
+4
+1
+21
+'El mayor es: ', num2
+13
+13
+4
+1
+21
+'El mayor es: ', num1
+13
+13
+4
+1
+42
+'Todos los números ingresados son iguales'
+13
+1

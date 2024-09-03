@@ -1,0 +1,129 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+171
+'Software para simular la función de una calculadora, seleccione una opcion: 
+- 1 Para suma
+- 2 Para resta
+- 3 Para multiplicación
+- 4 Para dividir
+- 0 Para salir '  
+5
+1
+6
+OPTION
+9
+1
+11
+OPTION != 0
+4
+1
+26
+'Ingrese el número 1 y 2 '
+5
+1
+11
+NUM1, NUM2 
+7
+0
+1
+10
+OPTION = 1
+7
+0
+1
+10
+OPTION = 2
+7
+0
+1
+10
+OPTION = 3
+7
+0
+1
+10
+OPTION = 4
+4
+1
+27
+'La opción no es correcta '
+13
+7
+0
+1
+9
+NUM2 = 0 
+6
+1
+5
+TOTAL
+9
+NUM1/NUM2
+4
+1
+25
+'La división es: ', TOTAL
+13
+4
+1
+35
+'La división no se puede ejecutar '
+13
+13
+13
+6
+1
+5
+TOTAL
+9
+NUM1*NUM2
+4
+1
+31
+'La multiplicación es: ', TOTAL
+13
+13
+6
+1
+5
+TOTAL
+9
+NUM1-NUM2
+4
+1
+22
+'La resta es: ', TOTAL
+13
+13
+6
+1
+5
+TOTAL
+9
+NUM1+NUM2
+4
+1
+21
+'La suma es: ', TOTAL
+13
+4
+1
+171
+'Software para simular la función de una calculadora, seleccione una opcion: 
+- 1 Para suma
+- 2 Para resta
+- 3 Para multiplicación
+- 4 Para dividir
+- 0 Para salir '  
+5
+1
+6
+OPTION
+11
+1

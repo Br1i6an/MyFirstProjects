@@ -1,0 +1,229 @@
+ Dfd (c)
+1
+1
+4
+0
+0
+4
+1
+165
+'Software para simular la funciión de una calculadora, ingrese una opcion:
+-1 Para suma
+-2 Para resta 
+-3 Para multiplicación 
+-4 Para división 
+-0 Para salir '
+5
+1
+6
+OPTION
+9
+1
+11
+OPTION != 0
+7
+0
+1
+10
+OPTION = 1
+13
+12
+1
+13
+programa_suma
+0
+13
+4
+1
+138
+'Software para calculadora, ingrese una opcion:
+-1 Para suma
+-2 Para resta 
+-3 Para multiplicación 
+-4 Para división 
+-0 Para salir '
+5
+1
+6
+OPTION
+11
+1
+2
+1
+13
+programa_suma
+0
+1
+73
+Este es un programa para sumar N números ingrese la cantidad de números  
+4
+1
+33
+'Cantidad de números a sumar: '
+
+5
+1
+1
+N
+6
+1
+5
+TOTAL
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+33
+'Ingrese el valor del número ', i
+5
+1
+5
+VALOR
+6
+1
+5
+TOTAL
+11
+TOTAL+VALOR
+10
+4
+1
+21
+'La suma es: ', TOTAL
+3
+2
+1
+14
+programa_resta
+0
+1
+72
+Este es un programa para restar N números ingrese la cantidad de números
+4
+1
+32
+'Cantidad de números a restar: '
+5
+1
+1
+N
+6
+1
+5
+TOTAL
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+33
+'Ingrese el valor del número ', i
+5
+1
+5
+VALOR
+7
+0
+1
+5
+i = 1
+6
+1
+6
+TOTALL
+11
+VALOR-VALOR
+13
+6
+1
+5
+TOTAL
+5
+VALOR
+13
+10
+4
+1
+22
+'La resta es: ', TOTAL
+3
+2
+1
+16
+programa_multipl
+0
+1
+78
+Este es un programa para multiplicar N números ingrese la cantidad de números 
+4
+1
+37
+'Cantidad de números a multiplicar: '
+5
+1
+1
+N
+6
+1
+5
+TOTAL
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+33
+'Ingrese el valor del número ', i
+5
+1
+5
+VALOR
+6
+1
+5
+TOTAL
+11
+TOTAL*VALOR
+10
+4
+1
+31
+'La multiplicacion es: ', TOTAL
+3

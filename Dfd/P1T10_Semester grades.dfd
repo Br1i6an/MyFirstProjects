@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+134
+" Software creado para conocer la nota de un estudiante creado por Brian Rodriguez  inserte la primer nota (debe estar entre 0 y 5) " 
+5
+1
+5
+nota1
+4
+1
+28
+" Ingrese la segunda nota " 
+5
+1
+5
+nota2
+4
+1
+26
+" Ingrese la tercer nota "
+5
+1
+5
+nota3
+4
+1
+21
+" Ingrese la nota 4 "
+5
+1
+5
+nota4
+7
+0
+1
+99
+nota1>=0 and nota1<=5 and nota2>=0 and nota2<=5 and nota3>=0 and nota3<=5 and nota4>=0 and nota4<=5
+4
+1
+60
+" Error el valor de todas las notas debe estar entre 1 y 5 "
+13
+6
+1
+9
+notafinal
+43
+nota1*0.20+nota2*0.25+nota3*0.25+nota4*0.30
+4
+1
+32
+" Su nota final es: ", notafinal
+13
+1

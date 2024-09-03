@@ -1,0 +1,58 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+34
+'software para el mercado del mes'
+6
+2
+5
+TOTAL
+1
+0
+9
+PRODUCTOS
+1
+0
+9
+1
+15
+TOTAL <= 500000
+4
+1
+47
+' Ingresar el valor del producto ', productos+1
+5
+1
+5
+valor
+6
+2
+5
+TOTAL
+11
+TOTAL+VALOR
+9
+PRODUCTOS
+11
+PRODUCTOS+1
+11
+6
+2
+5
+TOTAL
+11
+TOTAL-VALOR
+9
+PRODUCTOS
+11
+PRODUCTOS-1
+4
+1
+89
+' La factura es por total de: ', TOTAL, ' para una cantidad de productos = ', PRODUCTOS  
+1

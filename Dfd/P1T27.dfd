@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+20
+'Software de login '
+4
+1
+22
+'Ingrese el password '
+5
+1
+8
+password
+6
+1
+7
+INTENTO
+1
+0
+9
+1
+9
+INTENTO=3
+4
+1
+22
+'Ingrese el password '
+5
+1
+8
+password
+7
+0
+1
+50
+password = 352 or password = 259 or password = 569
+4
+1
+12
+'Try again '
+6
+1
+7
+INTENTO
+9
+INTENTO+1
+13
+4
+1
+10
+'welcome '
+13
+11
+1

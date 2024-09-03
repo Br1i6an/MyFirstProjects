@@ -1,0 +1,96 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+134
+'Software para medir el entrenamiento de un corredor para empezar ingrese el numero (1), cero (0) para detenerse,  que opcion desea? '
+5
+1
+6
+opcion
+6
+3
+7
+VUELTAS
+1
+0
+6
+MINIMO
+1
+0
+4
+SUMA
+1
+0
+9
+1
+10
+opcion = 1
+4
+1
+44
+'Ingrese el timepo de la vuelta ', VUELTAS+1
+5
+1
+6
+TIEMPO
+6
+2
+4
+SUMA
+11
+SUMA+TIEMPO
+7
+VUELTAS
+9
+VUELTAS+1
+7
+0
+1
+11
+VUELTAS = 1
+7
+0
+1
+15
+MINIMO > TIEMPO
+13
+6
+1
+6
+MINIMO
+6
+TIEMPO
+13
+13
+6
+1
+6
+MINIMO
+6
+TIEMPO
+13
+4
+1
+81
+'Desea seguir corriendo?, ingrese uno(1) para continuar o cero(0) para terminar '
+5
+1
+6
+opcion
+11
+6
+1
+8
+PROMEDIO
+12
+SUMA/VUELTAS
+4
+1
+79
+'Total vueltas: ' , VUELTAS, ' Promedio: ', PROMEDIO, ' Mejor vuelta ' , MINIMO
+1

@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+136
+' Programa para determinar la presion diastólica de una persona creado por Brian Rodríguez, inserte el valor de su presión sistólica  ' 
+5
+1
+10
+diastólica
+7
+0
+1
+13
+diastólica<80
+7
+0
+1
+14
+diastólica<=89
+4
+1
+68
+' ¡ PILAAAAS ! Usted sufre de hipertensión, maneje el estres :) '   
+13
+4
+1
+35
+' Usted sufre de pre-hipertensión '
+13
+13
+4
+1
+35
+' Usted tiene una presión normal ' 
+13
+1

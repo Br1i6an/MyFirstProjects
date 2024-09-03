@@ -1,0 +1,52 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+146
+'Sofware creado para saben cuántos días trae el mes según el número de éste, creado por Brian Rodríguez, ingrese el número del mes (entre 1 y 12)'
+5
+1
+5
+month
+7
+0
+1
+8
+month>12
+7
+0
+1
+7
+month=1
+7
+0
+1
+41
+month=4 or month=6 or month=9 or month=11
+4
+1
+15
+'Tiene 31 días'
+13
+4
+1
+15
+'Tiene 30 días'
+13
+13
+4
+1
+18
+'Tiene 28/29 días'
+13
+13
+4
+1
+39
+'Error, ingrese un número entre 1 y 12'
+13
+1
